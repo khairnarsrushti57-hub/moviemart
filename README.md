@@ -5,16 +5,6 @@ Users can browse movies, add them to a cart or wishlist, and get
 **personalized recommendations** powered by a content-based
 recommendation engine (TF-IDF + Cosine Similarity).
 
-## 📸 Screenshots
-
-**Browse Page**
-
-![Browse Page](screenshots/browse-page.png)
-
-**Recommendation Engine in action (Recommended For You)**
-
-![Recommended For You](screenshots/recommended-for-you.png)
-
 ## ✨ Features
 
 - Browse movies with poster images, ratings, and prices
