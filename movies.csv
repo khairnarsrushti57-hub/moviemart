@@ -1,0 +1,48 @@
+movie_id,title,genre,overview,rating,price,poster_url
+1,Galactic Drift,Sci-Fi,A lone pilot discovers a wormhole that leads to a forgotten colony fighting for survival.,8.1,249,https://picsum.photos/seed/movie1/400/600
+2,Nebula Rising,Sci-Fi,Scientists race to stop a rogue AI from taking control of a deep space station.,7.8,229,https://picsum.photos/seed/movie2/400/600
+3,The Last Signal,Sci-Fi,Earth receives a mysterious transmission from a planet thought to be dead.,7.5,199,https://picsum.photos/seed/movie3/400/600
+4,Quantum Heist,Sci-Fi,A team of thieves use time manipulation technology to pull off the ultimate heist.,8.3,259,https://picsum.photos/seed/movie4/400/600
+5,Red Horizon,Sci-Fi,The first human colony on Mars faces a threat from within.,7.6,219,https://picsum.photos/seed/movie5/400/600
+6,Chrono Break,Sci-Fi,"A physicist accidentally fractures time, creating dangerous parallel realities.",7.9,239,https://picsum.photos/seed/movie6/400/600
+7,Midnight Laughter,Comedy,A wedding planner's chaotic week spirals into a hilarious disaster.,7.2,149,https://picsum.photos/seed/movie7/400/600
+8,The Office Prank War,Comedy,Two rival coworkers escalate a prank war that consumes the entire company.,6.9,129,https://picsum.photos/seed/movie8/400/600
+9,Roommate Trouble,Comedy,Three mismatched roommates try to survive city life and each other.,7.0,139,https://picsum.photos/seed/movie9/400/600
+10,Family Vacation Fiasco,Comedy,A family road trip goes hilariously wrong at every possible turn.,7.4,159,https://picsum.photos/seed/movie10/400/600
+11,Stand-Up Dreams,Comedy,A shy accountant chases his dream of becoming a stand-up comedian.,7.6,169,https://picsum.photos/seed/movie11/400/600
+12,The Wedding Crasher,Comedy,An uninvited guest turns a lavish wedding upside down.,6.8,119,https://picsum.photos/seed/movie12/400/600
+13,Shattered Vows,Drama,A marriage unravels as long-buried secrets come to light.,8.0,189,https://picsum.photos/seed/movie13/400/600
+14,The Silent Field,Drama,A farming family struggles to hold onto their land and each other.,8.2,199,https://picsum.photos/seed/movie14/400/600
+15,City of Glass,Drama,An ambitious lawyer confronts the cost of success in a corrupt city.,7.9,179,https://picsum.photos/seed/movie15/400/600
+16,Letters Home,Drama,A soldier's letters connect two generations separated by war.,8.4,209,https://picsum.photos/seed/movie16/400/600
+17,The Painter's Grief,Drama,An artist rebuilds his life after losing everything in a fire.,7.7,169,https://picsum.photos/seed/movie17/400/600
+18,Broken Melody,Drama,A once-famous musician tries to reconnect with his estranged daughter.,8.1,189,https://picsum.photos/seed/movie18/400/600
+19,Haunted Hollow,Horror,A family moves into a house with a terrifying secret in the basement.,7.3,159,https://picsum.photos/seed/movie19/400/600
+20,The Night Watcher,Horror,A night-shift security guard is stalked by something that isn't human.,7.1,149,https://picsum.photos/seed/movie20/400/600
+21,Whispers in the Attic,Horror,Strange whispers lead a young woman to a decades-old mystery.,6.9,139,https://picsum.photos/seed/movie21/400/600
+22,Cursed Hollow Road,Horror,A group of friends get stranded on a road that seems to loop forever.,7.0,149,https://picsum.photos/seed/movie22/400/600
+23,The Basement Door,Horror,A locked door in a new home hides an unspeakable evil.,6.8,129,https://picsum.photos/seed/movie23/400/600
+24,Static,Horror,A radio signal starts predicting deaths before they happen.,7.5,169,https://picsum.photos/seed/movie24/400/600
+25,Second Chances,Romance,Two former lovers reunite years later at a chance encounter.,7.6,149,https://picsum.photos/seed/movie25/400/600
+26,Letters to You,Romance,A woman finds love through anonymous letters left in a library book.,7.8,159,https://picsum.photos/seed/movie26/400/600
+27,Paris in Autumn,Romance,An American writer falls for a local chef while spending a season in Paris.,8.0,179,https://picsum.photos/seed/movie27/400/600
+28,The Wedding Date,Romance,A fake relationship turns real over the course of a whirlwind week.,7.3,139,https://picsum.photos/seed/movie28/400/600
+29,Beneath the Stars,Romance,Two astronomers fall in love while chasing a once-in-a-lifetime comet.,7.9,169,https://picsum.photos/seed/movie29/400/600
+30,Coffee Shop Hearts,Romance,Daily conversations over coffee slowly turn into something more.,7.2,129,https://picsum.photos/seed/movie30/400/600
+31,Toy Kingdom,Animation,A group of toys embark on a journey to return home before dawn.,8.5,199,https://picsum.photos/seed/movie31/400/600
+32,The Little Dragon,Animation,A baby dragon must learn to fly to save his village from a flood.,8.2,189,https://picsum.photos/seed/movie32/400/600
+33,Under the Sea Kingdom,Animation,A young mermaid explores forbidden waters and uncovers an ancient secret.,8.0,179,https://picsum.photos/seed/movie33/400/600
+34,Robot Friends,Animation,Two mismatched robots build an unlikely friendship while lost in the city.,7.9,169,https://picsum.photos/seed/movie34/400/600
+35,The Forest Spirits,Animation,Magical forest spirits protect their home from encroaching machines.,8.3,199,https://picsum.photos/seed/movie35/400/600
+36,Silent Pursuit,Thriller,A detective races against time to catch a killer who mimics his own cases.,8.1,209,https://picsum.photos/seed/movie36/400/600
+37,The Whistleblower,Thriller,A corporate employee risks everything to expose a massive cover-up.,7.8,189,https://picsum.photos/seed/movie37/400/600
+38,Blind Spot,Thriller,A witness to a crime slowly realizes she's the next target.,7.6,179,https://picsum.photos/seed/movie38/400/600
+39,Dead Drop,Thriller,A courier discovers the package she's carrying could start a war.,7.9,199,https://picsum.photos/seed/movie39/400/600
+40,The Long Con,Thriller,A con artist's biggest scheme unravels when her past catches up.,8.0,209,https://picsum.photos/seed/movie40/400/600
+41,Vanishing Point,Thriller,A journalist investigates a string of disappearances tied to her own family.,7.7,189,https://picsum.photos/seed/movie41/400/600
+42,Iron Contract,Action,An ex-soldier is pulled back into a world of mercenaries for one last job.,8.0,229,https://picsum.photos/seed/movie42/400/600
+43,Steel Rain,Action,A city under siege depends on one officer to hold the line.,7.8,219,https://picsum.photos/seed/movie43/400/600
+44,The Getaway Driver,Action,A retired driver is forced back behind the wheel to save his family.,7.9,209,https://picsum.photos/seed/movie44/400/600
+45,Crimson Squad,Action,An elite squad must infiltrate an island fortress to stop a warlord.,8.2,239,https://picsum.photos/seed/movie45/400/600
+46,Rogue Protocol,Action,A disavowed agent goes on the run while hunting the truth behind his betrayal.,8.1,229,https://picsum.photos/seed/movie46/400/600
+47,Skyline Assault,Action,A team of specialists must stop a hijacked skyscraper from being used as a weapon.,7.7,219,https://picsum.photos/seed/movie47/400/600
